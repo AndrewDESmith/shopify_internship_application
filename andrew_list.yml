@@ -1,0 +1,7 @@
+---
+- !ruby/object:Item
+  name: vodka
+  time: 2016-05-27 15:49:47.924173000 -04:00
+- !ruby/object:Item
+  name: wine
+  time: 2016-05-27 15:50:46.929358000 -04:00
